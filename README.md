@@ -1,6 +1,7 @@
 # Online-System-Auction-Re2021
 
 Masters Degree work.
+with REST API for mobile app
 
 reworked by Oleksiichuk Bohdan
 
